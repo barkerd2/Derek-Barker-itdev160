@@ -5,5 +5,5 @@ var message = 'thank you for your interest';
 var welcome = salutation + name + message;
 
 
-var el = document.getElementById('greeting');
-el.textContent = welcome;
+var el.getElementById('greeting');
+el.textContent = greeting;
