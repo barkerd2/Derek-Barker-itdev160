@@ -1,16 +1,47 @@
 body {
    font-family: helvetica, sans-serif;
 background-color: hsl(300, 100%, 95%) }
-h1 {text-transform: uppercase;
-  text-emphasis-color: #000069 ;
-  color: #000066;
-font-weight: bold;font-family: helvetica, sans-serif;}
-h2 {text-indent: 30px; color: #000066;
-font-weight: bold;font-family: helvetica, sans-serif;}
-h3 {text-indent: 30px; color: #000066;
-font-weight: bold;font-family: helvetica, sans-serif;}
-p{color: rgb(102, 102, 51);
-font-weight: bold;
-line-height: 1.2em;}
-figure img{width:400px;
-height: 300px;}
+
+.welcome{
+	font-size: 40px;
+	text-emphasis-color:  #000069 ;
+	color: #000066;
+	font-weight: bold;
+	font-family: helvetica, sans-serif;
+}
+
+.title{
+		text-indent: 30px; color: hsl(300, 100%, 20%);
+	font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+.text1{
+	color:  hsl(300, 100%, 20%);
+	font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-emphasis-color:  #000069 ;
+	color: #000066;
+	font-weight: bold;
+	font-family: helvetica, sans-serif;
+}
+
+h2 {
+	text-indent: 30px; color: #000066;
+	font-weight: bold;font-family: helvetica, sans-serif;
+}
+h3 {
+	text-indent: 3; color: #000066;
+	font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+p {
+	color: rgb(102, 102, 51);
+	font-weight: bold;
+}
+figure img {
+	width:400px;
+	height: 300px;
+}
