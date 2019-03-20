@@ -1,16 +1,86 @@
 body {
-   font-family: helvetica, sans-serif;
-background-color: hsl(300, 100%, 95%) }
-h1 {text-transform: uppercase;
-  text-emphasis-color: #000069 ;
-  color: #000066;
-font-weight: bold;font-family: helvetica, sans-serif;}
-h2 {text-indent: 30px; color: #000066;
-font-weight: bold;font-family: helvetica, sans-serif;}
-h3 {text-indent: 30px; color: #000066;
-font-weight: bold;font-family: helvetica, sans-serif;}
-p{color: rgb(102, 102, 51);
+	background-image: url("images/carnation.png");
+background-position: top;
+background-size:  cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+font-family: helvetica, sans-serif;
+background-color: hsl(300, 100%, 95%);
+}
+
+.welcome{
+font-size: 40px;
+text-emphasis-color:  #000069 ;
+color: #000066;
 font-weight: bold;
-line-height: 1.2em;}
-figure img{width:400px;
-height: 300px;}
+font-family: helvetica, sans-serif;
+}
+/* Table formatting*/
+table.blueTable {
+border: 1px solid #1C6EA4;
+background-color: #EEEEEE;
+width: 100%;
+text-align: left;
+border-collapse: collapse;
+}
+table.blueTable td, table.blueTable th {
+border: 1px solid #AAAAAA;
+padding: 3px 2px;
+}
+table.blueTable tbody td {
+font-size: 13px;
+}
+table.blueTable tr:nth-child(even) {
+background: #D0E4F5;
+}
+table.blueTable thead {
+background: #1C6EA4;
+border-bottom: 2px solid #444444;
+}
+table.blueTable thead th {
+font-size: 15px;
+font-weight: bold;
+color: #FFFFFF;
+border-left: 2px solid #D0E4F5;
+}
+table.blueTable thead th:first-child {
+border-left: 2px solid #444444;
+
+}
+
+/* body formatting*/
+.title{
+text-indent: 30px; color: hsl(24, 100%, 50%);
+font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+.text1{
+color:  hsl(24, 100%, 50%);
+font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+h1 {
+text-transform: uppercase;
+text-emphasis-color:  #000069 ;
+color: #000066;
+font-weight: bold;
+font-family: helvetica, sans-serif;
+}
+
+h2 {
+text-indent: 30px; color: #000066;
+font-weight: bold;font-family: helvetica, sans-serif;
+}
+h3 {
+text-indent: 3; color: #000066;
+font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+p {
+color: rgb(0, 0, 102);
+font-weight: bold;
+}
+figure img {
+width:400px;
+height: 300px;
+}
