@@ -1,0 +1,34 @@
+body {
+	font-family: helvetica, sans-serif;
+background-color: hsl(300, 100%, 95%);
+}
+
+
+/* body formatting*/
+title{
+color: hsl(24, 100%, 50%);
+font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+
+h1 {
+
+text-emphasis-color:  #000069 ;
+color: #000066;
+font-weight: bold;
+font-family: helvetica, sans-serif;
+}
+
+.url {
+color: #000066;
+font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+p {
+color: rgb(0, 0, 102);
+font-weight: bold;
+}
+figure img {
+width:400px;
+height: 300px;
+}
