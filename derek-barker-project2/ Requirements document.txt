@@ -1,0 +1,14 @@
+Project description
+Contemporary arts resources listings and Info
+
+Feature list
+.links
+.site descriptions
+.podcast list and descriptions
+.chat functionality
+
+  Technical tasks:
+- glossy formatting in contemporary style
+- links and images for Sites
+- links description and stats for Podcasts
+- chat functionality

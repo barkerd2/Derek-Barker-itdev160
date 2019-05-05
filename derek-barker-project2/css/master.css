@@ -1,0 +1,91 @@
+body {
+   font-family: helvetica, sans-serif}
+
+.welcome{
+	font-size: 40px;
+	text-emphasis-color:  #000069 ;
+	color: #000066;
+	font-weight: bold;
+	font-family: helvetica, sans-serif;
+}
+
+.title{
+		text-indent: 30px; color: hsl(300, 100%, 20%);
+	font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+.title2{
+		text-indent: 30px; color: #efefef;
+	font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+.text1{
+	color:  hsl(300, 100%, 20%);
+	font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-emphasis-color:  #000069 ;
+	color: #000066;
+	font-weight: bold;
+	font-family: helvetica, sans-serif;
+}
+
+header {
+  display: flex;
+  padding: 5px;
+  color: #efefef;
+  background-color: #2D2D2D;
+  border-bottom: solid 1px #000;
+}
+
+header .header-title {
+  display: inline-block;
+}
+
+
+
+h2 {
+	text-indent: 30px; color: #000066;
+	font-weight: bold;font-family: helvetica, sans-serif;
+}
+h3 {
+	text-indent: 3; color: #000066;
+	font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+h4 {
+	text-indent: 3; color: #efefef;
+	font-weight: bold;font-family: helvetica, sans-serif;
+}
+
+p {
+	color: rgb(102, 102, 51);
+	font-weight: bold;
+}
+
+.text {
+	color: rgb(0, 51, 0);
+
+}
+
+figure img {
+	width:800px;
+	height: 600px;
+}
+
+.messages {
+font-family: helvetica, sans-serif;
+margin-bottom: 20px;
+}
+
+.out-message {
+padding: 5px;
+background: #B0C4DE;
+}
+
+.in-message {
+padding: 5px;
+background-color: #DDA0DD;
+}
