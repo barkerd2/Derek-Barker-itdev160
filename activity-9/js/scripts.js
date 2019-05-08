@@ -38,7 +38,7 @@ var data = [
     title: 'Accuracy',
     body:
       'Measure twice and cut once.',
-    author: 'Unknown'
+    author: 'Unknown Shop teacher'
   }
 ]
 
