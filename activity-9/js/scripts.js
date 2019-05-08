@@ -32,6 +32,13 @@ var data = [
     body:
       'Art is the imposing of a pattern on experience, and our aesthetic enjoyment is recognition of the pattern.',
     author: 'Alfred North Whitehead'
+  },
+  {
+    id: 6,
+    title: 'Accuracy',
+    body:
+      'Measure twice and cut once.',
+    author: 'Unknown'
   }
 ]
 
