@@ -1,0 +1,20 @@
+Project description
+Contemporary arts resources listings and Info
+
+Feature list
+.links
+.inspiring Quotes
+.upload an image and have it critiqued
+.site descriptions
+.podcast list and descriptions
+
+
+  Technical tasks:
+- glossy formatting in contemporary style
+- quote selection menu
+- image upload for critique button
+- image upload resize and page repository
+- critique form
+- links and images for Sites
+- links description and stats for Podcasts
+- chat functionality
